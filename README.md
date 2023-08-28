@@ -1,10 +1,10 @@
 ### Hi there! My name is Luiky
 
-I'm a Software and Data Engineer from Brazil 🇧🇷
+I'm a Software Engineer from Brazil 🇧🇷
 
 I have an Engineering Master's degree from CentraleSupélec 🇫🇷 and a Bachelor's one from the Federal University of Ceará 🇧🇷.
 
-I've been participating in several software projects since the beginning of my career and I'm currently working as a Junior Software Engineer at [Itaú](https://www.itau.com.br/).
+I've been participating in several software projects since the beginning of my career and I'm currently working as a Software Engineer at [Itaú](https://www.itau.com.br/).
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
